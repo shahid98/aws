@@ -13,13 +13,13 @@ const HomePage = () => {
       <Container>
           <Header />
           <Descriptors
-            plaintext="I AM A..."
+            
             config={{
               strings: [
-                `${formatOf("ENGINEER")}`,
-                `${formatOf("STUDENT")}`,
-                `${formatOf("MUSICIAN")}`,
-                `${formatOf("WRITER")}`,
+                `${formatOf("MD SHAHID")}`,
+                `${formatOf("AYESHA KHATUN")}`,
+                `${formatOf("SK SOHAIL")}`,
+                `${formatOf("ZAWED AKHTAR")}`,
               ],
               autoStart: true,
               loop: true,
