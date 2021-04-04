@@ -6,9 +6,20 @@ import {
 
 const HomePageContent = (
   <SupportingContentText>
-   
+   INDUSTRIAL TRAINING UNDER DR DEBASHISH GIRI
     <br />
+  BY ,
+  <br>
+  MD SHAHID
+  <br>
+   AYESHA KHATUN
+   <br>
+  SRIJITA KARMAKAR
+  <br>
+  SK SOHAIL
+  
     <br />
+  
     Learn more{" "}
     <a
       href="/about"
