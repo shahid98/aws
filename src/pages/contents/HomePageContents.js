@@ -6,7 +6,7 @@ import {
 
 const HomePageContent = (
   <SupportingContentText>
-   THIS IS DONE  BY US MAKATIAN
+   
     <br />
     <br />
     Learn more{" "}
@@ -27,9 +27,9 @@ const HomePageContent = (
         navLinkStylesLeave(e, "none", "#748492");
       }}
     >
-      about me
+      about this project
     </a>{" "}
-    and the things I'm{" "}
+   
    
     !
   </SupportingContentText>
