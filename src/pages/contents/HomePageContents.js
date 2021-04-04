@@ -31,10 +31,10 @@ const HomePageContent = (
       }}
     >
       about this project
-    </a>{" "}
+    </a>
    
    
-    !
+    
   </SupportingContentText>
 );
 
