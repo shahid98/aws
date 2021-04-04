@@ -75,17 +75,7 @@ const Header = function SearchAppBar() {
             >
               Home
             </StyledLink>
-            <StyledLink
-              href="/projects"
-              onMouseEnter={(e) => {
-                navLinkStylesEnter(e);
-              }}
-              onMouseLeave={(e) => {
-                navLinkStylesLeave(e);
-              }}
-            >
-              Projects
-            </StyledLink>
+           
             <StyledLink
               href="/about"
               onMouseEnter={(e) => {
@@ -97,16 +87,7 @@ const Header = function SearchAppBar() {
             >
               About
             </StyledLink>
-            <StyledLink
-              href="/bookshelf"
-              onMouseEnter={(e) => {
-                navLinkStylesEnter(e);
-              }}
-              onMouseLeave={(e) => {
-                navLinkStylesLeave(e);
-              }}
-            >
-              Books
+           
             </StyledLink>
           </div>
         </Toolbar>
