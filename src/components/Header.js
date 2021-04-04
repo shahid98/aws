@@ -87,8 +87,7 @@ const Header = function SearchAppBar() {
             >
               About
             </StyledLink>
-           
-            </StyledLink>
+         
           </div>
         </Toolbar>
       </AppBar>
