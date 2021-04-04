@@ -27,7 +27,7 @@ const AboutPageContent = () => {
   return (
     <SupportingContentText>
         
-    THIS IS A TESTING M
+    I WOULD LIKE TO THANK OUR PROFESSOR DR DEBASHISH GIRI FOR GIVING US CHANCE FOR INTERNSHIP UNDER HIM.
     </SupportingContentText>
   );
 };
