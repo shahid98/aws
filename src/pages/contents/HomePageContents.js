@@ -7,7 +7,7 @@ import {
 const HomePageContent = (
   <SupportingContentText>
    INDUSTRIAL TRAINING UNDER DR DEBASHISH GIRI SIR
-    <br />
+    <br/>
  
   <br>
 
